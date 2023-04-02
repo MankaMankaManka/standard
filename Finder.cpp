@@ -11,6 +11,7 @@ result.push_back(found);
   for (int j=i; j<=s2.size(); j++){
 result.push_back(-1);
   }
+  return result;
 }
 }
 return result;
